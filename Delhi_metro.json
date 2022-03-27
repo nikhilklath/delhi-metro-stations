@@ -1,0 +1,2642 @@
+{
+    "0": {
+        "Line": "Red Line 1",
+        "n": "1",
+        "name": "SHAHEED STHAL ( NEW BUS ADDA)",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.670621,
+        "long": 77.415453
+    },
+    "1": {
+        "Line": "Red Line 1",
+        "n": "2",
+        "name": "HINDON RIVER",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.67341499999999,
+        "long": 77.40637
+    },
+    "2": {
+        "Line": "Red Line 1",
+        "n": "3",
+        "name": "ARTHALA",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.676927,
+        "long": 77.391773
+    },
+    "3": {
+        "Line": "Red Line 1",
+        "n": "4",
+        "name": "MOHAN NAGAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.67848,
+        "long": 77.383933
+    },
+    "4": {
+        "Line": "Red Line 1",
+        "n": "5",
+        "name": "SHYAM PARK",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6782,
+        "long": 77.37024
+    },
+    "5": {
+        "Line": "Red Line 1",
+        "n": "6",
+        "name": "MAJOR MOHIT SHARMA RAJENDRA NAGAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.67762,
+        "long": 77.35828
+    },
+    "6": {
+        "Line": "Red Line 1",
+        "n": "7",
+        "name": "RAJ BAGH",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.67702999999999,
+        "long": 77.34658
+    },
+    "7": {
+        "Line": "Red Line 1",
+        "n": "8",
+        "name": "SHAHEED NAGAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.676632,
+        "long": 77.333759
+    },
+    "8": {
+        "Line": "Red Line 1",
+        "n": "9",
+        "name": "DILSHAD GARDEN",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6758978,
+        "long": 77.3215165
+    },
+    "9": {
+        "Line": "Red Line 1",
+        "n": "10",
+        "name": "JHILMIL",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.67576,
+        "long": 77.312426
+    },
+    "10": {
+        "Line": "Red Line 1",
+        "n": "11",
+        "name": "MANSAROVAR PARK",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.675566,
+        "long": 77.300119
+    },
+    "11": {
+        "Line": "Red Line 1",
+        "n": "12",
+        "name": "SHAHDARA",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6701119,
+        "long": 77.2679481
+    },
+    "12": {
+        "Line": "Red Line 1",
+        "n": "13",
+        "name": "WELCOME",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.67179029999999,
+        "long": 77.2776809
+    },
+    "13": {
+        "Line": "Red Line 1",
+        "n": "14",
+        "name": "SEELAMPUR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6678232,
+        "long": 77.212413
+    },
+    "14": {
+        "Line": "Red Line 1",
+        "n": "15",
+        "name": "SHASTRI PARK",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6678232,
+        "long": 77.212413
+    },
+    "15": {
+        "Line": "Red Line 1",
+        "n": "16",
+        "name": "KASHMERE GATE",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6678232,
+        "long": 77.212413
+    },
+    "16": {
+        "Line": "Red Line 1",
+        "n": "17",
+        "name": "TIS HAZARI",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6677524,
+        "long": 77.2130563
+    },
+    "17": {
+        "Line": "Red Line 1",
+        "n": "18",
+        "name": "PULBANGASH",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.666398,
+        "long": 77.2073716
+    },
+    "18": {
+        "Line": "Red Line 1",
+        "n": "19",
+        "name": "PRATAP NAGAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.666615,
+        "long": 77.19888259999999
+    },
+    "19": {
+        "Line": "Red Line 1",
+        "n": "20",
+        "name": "SHASTRI NAGAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6704313,
+        "long": 77.1795848
+    },
+    "20": {
+        "Line": "Red Line 1",
+        "n": "21",
+        "name": "INDER LOK",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.673571,
+        "long": 77.170296
+    },
+    "21": {
+        "Line": "Red Line 1",
+        "n": "22",
+        "name": "KANHAIYA NAGAR ",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.681989,
+        "long": 77.16510099999999
+    },
+    "22": {
+        "Line": "Red Line 1",
+        "n": "23",
+        "name": "KESHAVPURAM",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.691041,
+        "long": 77.1604577
+    },
+    "23": {
+        "Line": "Red Line 1",
+        "n": "24",
+        "name": "NETAJI SUBHASH PLACE",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6960458,
+        "long": 77.15263039999999
+    },
+    "24": {
+        "Line": "Red Line 1",
+        "n": "25",
+        "name": "KOHAT ENCLAVE",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6979869,
+        "long": 77.14046929999999
+    },
+    "25": {
+        "Line": "Red Line 1",
+        "n": "26",
+        "name": "PITAMPURA",
+        "disabled friendly": 0,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.7064662,
+        "long": 77.1275854
+    },
+    "26": {
+        "Line": "Red Line 1",
+        "n": "27",
+        "name": "ROHINI (EAST)",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.7076699,
+        "long": 77.1258745
+    },
+    "27": {
+        "Line": "Red Line 1",
+        "n": "28",
+        "name": "ROHINI (WEST)",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.714869,
+        "long": 77.115484
+    },
+    "28": {
+        "Line": "Red Line 1",
+        "n": "29",
+        "name": "RITHALA",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6678232,
+        "long": 77.212413
+    },
+    "29": {
+        "Line": "Yellow Line 2",
+        "n": "1",
+        "name": "SAMAYPUR BADLI",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.744638,
+        "long": 77.13829299999999
+    },
+    "30": {
+        "Line": "Yellow Line 2",
+        "n": "2",
+        "name": "ROHINI SECTOR - 18, 19",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.73838,
+        "long": 77.13986
+    },
+    "31": {
+        "Line": "Yellow Line 2",
+        "n": "3",
+        "name": "HAIDERPUR BADLI MOR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.7300015,
+        "long": 77.1491765
+    },
+    "32": {
+        "Line": "Yellow Line 2",
+        "n": "4",
+        "name": "JAHANGIRPURI",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.72702,
+        "long": 77.1618865
+    },
+    "33": {
+        "Line": "Yellow Line 2",
+        "n": "5",
+        "name": "ADARSH NAGAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.7177131,
+        "long": 77.1693769
+    },
+    "34": {
+        "Line": "Yellow Line 2",
+        "n": "6",
+        "name": "AZADPUR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.7112171,
+        "long": 77.1751725
+    },
+    "35": {
+        "Line": "Yellow Line 2",
+        "n": "7",
+        "name": "MODEL TOWN",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.7042915,
+        "long": 77.1902378
+    },
+    "36": {
+        "Line": "Yellow Line 2",
+        "n": "8",
+        "name": "GTB NAGAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6980254,
+        "long": 77.2068335
+    },
+    "37": {
+        "Line": "Yellow Line 2",
+        "n": "9",
+        "name": "VISHWAVIDYALAYA",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.69519,
+        "long": 77.21450999999999
+    },
+    "38": {
+        "Line": "Yellow Line 2",
+        "n": "10",
+        "name": "VIDHAN SABHA",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.687763,
+        "long": 77.221577
+    },
+    "39": {
+        "Line": "Yellow Line 2",
+        "n": "11",
+        "name": "CIVIL LINES",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6828078,
+        "long": 77.2222708
+    },
+    "40": {
+        "Line": "Yellow Line 2",
+        "n": "12",
+        "name": "KASHMERE GATE",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.66747,
+        "long": 77.22824
+    },
+    "41": {
+        "Line": "Yellow Line 2",
+        "n": "13",
+        "name": "CHANDNI CHOWK",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6523765,
+        "long": 77.2279284
+    },
+    "42": {
+        "Line": "Yellow Line 2",
+        "n": "14",
+        "name": "CHAWRI BAZAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6488,
+        "long": 77.2263
+    },
+    "43": {
+        "Line": "Yellow Line 2",
+        "n": "15",
+        "name": "NEW DELHI (Yellow & Airport Line)",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5530064,
+        "long": 77.2050391
+    },
+    "44": {
+        "Line": "Yellow Line 2",
+        "n": "16",
+        "name": "RAJIV CHOWK",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6284449,
+        "long": 77.2184471
+    },
+    "45": {
+        "Line": "Yellow Line 2",
+        "n": "17",
+        "name": "PATEL CHOWK",
+        "disabled friendly": 0,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6232809,
+        "long": 77.214478
+    },
+    "46": {
+        "Line": "Yellow Line 2",
+        "n": "18",
+        "name": "CENTRAL SECRETARIAT",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6151511,
+        "long": 77.21226349999999
+    },
+    "47": {
+        "Line": "Yellow Line 2",
+        "n": "19",
+        "name": "UDYOG BHAWAN",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.611014,
+        "long": 77.2122442
+    },
+    "48": {
+        "Line": "Yellow Line 2",
+        "n": "20",
+        "name": "LOK KALYAN MARG",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5976575,
+        "long": 77.21117730000002
+    },
+    "49": {
+        "Line": "Yellow Line 2",
+        "n": "21",
+        "name": "JOR BAGH",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.597772,
+        "long": 77.2113278
+    },
+    "50": {
+        "Line": "Yellow Line 2",
+        "n": "22",
+        "name": "DILLI HAAT - INA",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5744494,
+        "long": 77.2096224
+    },
+    "51": {
+        "Line": "Yellow Line 2",
+        "n": "23",
+        "name": "AIIMS",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5668275,
+        "long": 77.2081202
+    },
+    "52": {
+        "Line": "Yellow Line 2",
+        "n": "24",
+        "name": "GREEN PARK",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5589064,
+        "long": 77.2069317
+    },
+    "53": {
+        "Line": "Yellow Line 2",
+        "n": "25",
+        "name": "HAUZ KHAS",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5519483,
+        "long": 77.2053054
+    },
+    "54": {
+        "Line": "Yellow Line 2",
+        "n": "26",
+        "name": "MALVIYA NAGAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5325929,
+        "long": 77.2055768
+    },
+    "55": {
+        "Line": "Yellow Line 2",
+        "n": "27",
+        "name": "SAKET",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.597772,
+        "long": 77.2113278
+    },
+    "56": {
+        "Line": "Yellow Line 2",
+        "n": "28",
+        "name": "QUTAB MINAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5244946,
+        "long": 77.18551769999999
+    },
+    "57": {
+        "Line": "Yellow Line 2",
+        "n": "29",
+        "name": "CHHATTARPUR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5060987,
+        "long": 77.1744196
+    },
+    "58": {
+        "Line": "Yellow Line 2",
+        "n": "30",
+        "name": "SULTANPUR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.597772,
+        "long": 77.2113278
+    },
+    "59": {
+        "Line": "Yellow Line 2",
+        "n": "31",
+        "name": "GHITORNI",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.4970114,
+        "long": 77.1562944
+    },
+    "60": {
+        "Line": "Yellow Line 2",
+        "n": "32",
+        "name": "ARJAN GARH",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.597772,
+        "long": 77.2113278
+    },
+    "61": {
+        "Line": "Yellow Line 2",
+        "n": "33",
+        "name": "GURU DRONACHARYA",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.4819493,
+        "long": 77.10225179999999
+    },
+    "62": {
+        "Line": "Yellow Line 2",
+        "n": "34",
+        "name": "SIKANDERPUR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.48131,
+        "long": 77.09312
+    },
+    "63": {
+        "Line": "Yellow Line 2",
+        "n": "35",
+        "name": "MG ROAD",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.47957,
+        "long": 77.08006
+    },
+    "64": {
+        "Line": "Yellow Line 2",
+        "n": "36",
+        "name": "IFFCO CHOWK",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.47224,
+        "long": 77.0724
+    },
+    "65": {
+        "Line": "Yellow Line 2",
+        "n": "37",
+        "name": "HUDA CITY CENTRE",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.4592,
+        "long": 77.07248
+    },
+    "66": {
+        "Line": "Blue Line 3",
+        "n": "1",
+        "name": "DWARKA SECTOR - 21",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5595386,
+        "long": 77.0644838
+    },
+    "67": {
+        "Line": "Blue Line 3",
+        "n": "2",
+        "name": "DWARKA SECTOR - 8",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5679547,
+        "long": 77.0672074
+    },
+    "68": {
+        "Line": "Blue Line 3",
+        "n": "3",
+        "name": "DWARKA SECTOR - 9",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5896914,
+        "long": 77.0445496
+    },
+    "69": {
+        "Line": "Blue Line 3",
+        "n": "4",
+        "name": "DWARKA SECTOR - 10",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5835843,
+        "long": 77.0537442
+    },
+    "70": {
+        "Line": "Blue Line 3",
+        "n": "5",
+        "name": "DWARKA SECTOR - 11",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5870348,
+        "long": 77.048597
+    },
+    "71": {
+        "Line": "Blue Line 3",
+        "n": "6",
+        "name": "DWARKA SECTOR - 12",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5915685,
+        "long": 77.0416702
+    },
+    "72": {
+        "Line": "Blue Line 3",
+        "n": "7",
+        "name": "DWARKA SECTOR - 13",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5964447,
+        "long": 77.0344511
+    },
+    "73": {
+        "Line": "Blue Line 3",
+        "n": "8",
+        "name": "DWARKA SECTOR - 14",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5896914,
+        "long": 77.0445496
+    },
+    "74": {
+        "Line": "Blue Line 3",
+        "n": "9",
+        "name": "DWARKA",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5896914,
+        "long": 77.0445496
+    },
+    "75": {
+        "Line": "Blue Line 3",
+        "n": "10",
+        "name": "DWARKA MOR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6191983,
+        "long": 77.03229630000001
+    },
+    "76": {
+        "Line": "Blue Line 3",
+        "n": "11",
+        "name": "NAWADA",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.620156,
+        "long": 77.0450226
+    },
+    "77": {
+        "Line": "Blue Line 3",
+        "n": "12",
+        "name": "UTTAM NAGAR WEST",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6217542,
+        "long": 77.0558111
+    },
+    "78": {
+        "Line": "Blue Line 3",
+        "n": "13",
+        "name": "UTTAM NAGAR EAST",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6248053,
+        "long": 77.0653064
+    },
+    "79": {
+        "Line": "Blue Line 3",
+        "n": "14",
+        "name": "JANAK PURI WEST",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.62947,
+        "long": 77.07777
+    },
+    "80": {
+        "Line": "Blue Line 3",
+        "n": "15",
+        "name": "JANAK PURI EAST",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.63306,
+        "long": 77.08672
+    },
+    "81": {
+        "Line": "Blue Line 3",
+        "n": "16",
+        "name": "TILAK NAGAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.636568,
+        "long": 77.09648
+    },
+    "82": {
+        "Line": "Blue Line 3",
+        "n": "17",
+        "name": "SUBHASH NAGAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.64039,
+        "long": 77.10495
+    },
+    "83": {
+        "Line": "Blue Line 3",
+        "n": "18",
+        "name": "TAGORE GARDEN",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.643754,
+        "long": 77.1128805
+    },
+    "84": {
+        "Line": "Blue Line 3",
+        "n": "19",
+        "name": "RAJOURI GARDEN",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6478611,
+        "long": 77.1197192
+    },
+    "85": {
+        "Line": "Blue Line 3",
+        "n": "20",
+        "name": "RAMESH NAGAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6529449,
+        "long": 77.1323456
+    },
+    "86": {
+        "Line": "Blue Line 3",
+        "n": "21",
+        "name": "MOTI NAGAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6578704,
+        "long": 77.1426742
+    },
+    "87": {
+        "Line": "Blue Line 3",
+        "n": "22",
+        "name": "KIRTI NAGAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6566804,
+        "long": 77.1404296
+    },
+    "88": {
+        "Line": "Blue Line 3",
+        "n": "23",
+        "name": "SHADIPUR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.65162,
+        "long": 77.15823
+    },
+    "89": {
+        "Line": "Blue Line 3",
+        "n": "24",
+        "name": "PATEL NAGAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6466702,
+        "long": 77.1666355
+    },
+    "90": {
+        "Line": "Blue Line 3",
+        "n": "25",
+        "name": "RAJENDRA PLACE",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.64253,
+        "long": 77.17824
+    },
+    "91": {
+        "Line": "Blue Line 3",
+        "n": "26",
+        "name": "KAROL BAGH",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6443166,
+        "long": 77.1907184
+    },
+    "92": {
+        "Line": "Blue Line 3",
+        "n": "27",
+        "name": "JHANDEWALAN",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6426729,
+        "long": 77.2033433
+    },
+    "93": {
+        "Line": "Blue Line 3",
+        "n": "28",
+        "name": "RK ASHRAM MARG",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.63924,
+        "long": 77.20855999999999
+    },
+    "94": {
+        "Line": "Blue Line 3",
+        "n": "29",
+        "name": "RAJIV CHOWK",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.632986,
+        "long": 77.219374
+    },
+    "95": {
+        "Line": "Blue Line 3",
+        "n": "30",
+        "name": "BARAKHAMBA ROAD",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.62994,
+        "long": 77.22449999999999
+    },
+    "96": {
+        "Line": "Blue Line 3",
+        "n": "31",
+        "name": "MANDI HOUSE",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6362082,
+        "long": 77.2137495
+    },
+    "97": {
+        "Line": "Blue Line 3",
+        "n": "32",
+        "name": "SUPREME COURT",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6231754,
+        "long": 77.24292849999999
+    },
+    "98": {
+        "Line": "Blue Line 3",
+        "n": "33",
+        "name": "INDRAPRASTHA",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.62055,
+        "long": 77.24995
+    },
+    "99": {
+        "Line": "Blue Line 3",
+        "n": "34",
+        "name": "YAMUNA BANK",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.62333,
+        "long": 77.26792
+    },
+    "100": {
+        "Line": "Blue Line 3",
+        "n": "35",
+        "name": "AKSHARDHAM",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6179626,
+        "long": 77.2793762
+    },
+    "101": {
+        "Line": "Blue Line 3",
+        "n": "36",
+        "name": "MAYUR VIHAR PHASE-I",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6008401,
+        "long": 77.2912501
+    },
+    "102": {
+        "Line": "Blue Line 3",
+        "n": "37",
+        "name": "MAYUR VIHAR EXT",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.59422,
+        "long": 77.29473999999999
+    },
+    "103": {
+        "Line": "Blue Line 3",
+        "n": "38",
+        "name": "NEW ASHOK NAGAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6362082,
+        "long": 77.2137495
+    },
+    "104": {
+        "Line": "Blue Line 3",
+        "n": "39",
+        "name": "NOIDA SECTOR 15",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.58509,
+        "long": 77.31159
+    },
+    "105": {
+        "Line": "Blue Line 3",
+        "n": "40",
+        "name": "NOIDA SECTOR 16",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.578653,
+        "long": 77.31742
+    },
+    "106": {
+        "Line": "Blue Line 3",
+        "n": "41",
+        "name": "NOIDA SECTOR 18",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.570751,
+        "long": 77.326188
+    },
+    "107": {
+        "Line": "Blue Line 3",
+        "n": "42",
+        "name": "BOTANICAL GARDEN",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5640373,
+        "long": 77.3342687
+    },
+    "108": {
+        "Line": "Blue Line 3",
+        "n": "43",
+        "name": "GOLF COURSE",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5671765,
+        "long": 77.3459827
+    },
+    "109": {
+        "Line": "Blue Line 3",
+        "n": "44",
+        "name": "NOIDA CITY CENTRE",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.57467,
+        "long": 77.35605
+    },
+    "110": {
+        "Line": "Blue Line 3",
+        "n": "45",
+        "name": "SECTOR - 34 NOIDA",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.580118,
+        "long": 77.363486
+    },
+    "111": {
+        "Line": "Blue Line 3",
+        "n": "46",
+        "name": "SECTOR - 52 NOIDA",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5749141,
+        "long": 77.3215654
+    },
+    "112": {
+        "Line": "Blue Line 3",
+        "n": "47",
+        "name": "SECTOR - 61 NOIDA",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5749141,
+        "long": 77.3215654
+    },
+    "113": {
+        "Line": "Blue Line 3",
+        "n": "48",
+        "name": "SECTOR - 59 NOIDA",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5749141,
+        "long": 77.3215654
+    },
+    "114": {
+        "Line": "Blue Line 3",
+        "n": "49",
+        "name": "SECTOR - 62 NOIDA",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5749141,
+        "long": 77.3215654
+    },
+    "115": {
+        "Line": "Blue Line 3",
+        "n": "50",
+        "name": "NOIDA ELECTRONIC CITY",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.627941,
+        "long": 77.37493
+    },
+    "116": {
+        "Line": "Blue Line 4",
+        "n": "1",
+        "name": "YAMUNA BANK",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.62333,
+        "long": 77.26792
+    },
+    "117": {
+        "Line": "Blue Line 4",
+        "n": "2",
+        "name": "LAXMI NAGAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6362082,
+        "long": 77.2137495
+    },
+    "118": {
+        "Line": "Blue Line 4",
+        "n": "3",
+        "name": "NIRMAN VIHAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.63663,
+        "long": 77.28683
+    },
+    "119": {
+        "Line": "Blue Line 4",
+        "n": "4",
+        "name": "PREET VIHAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6393063,
+        "long": 77.2921482
+    },
+    "120": {
+        "Line": "Blue Line 4",
+        "n": "5",
+        "name": "KARKARDUMA",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.64849,
+        "long": 77.30557999999999
+    },
+    "121": {
+        "Line": "Blue Line 4",
+        "n": "6",
+        "name": "ANAND VIHAR I.S.B.T",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6469527,
+        "long": 77.3159156
+    },
+    "122": {
+        "Line": "Blue Line 4",
+        "n": "7",
+        "name": "KAUSHAMBI",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6453057,
+        "long": 77.3229522
+    },
+    "123": {
+        "Line": "Blue Line 4",
+        "n": "8",
+        "name": "VAISHALI",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6362082,
+        "long": 77.2137495
+    },
+    "124": {
+        "Line": "Green Line 5",
+        "n": "1",
+        "name": "KIRTI NAGAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.655247,
+        "long": 77.15185
+    },
+    "125": {
+        "Line": "Green Line 5",
+        "n": "2",
+        "name": "SATGURU RAM SINGH MARG",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.66213,
+        "long": 77.15765999999999
+    },
+    "126": {
+        "Line": "Green Line 5",
+        "n": "3",
+        "name": "INDER LOK",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.678966,
+        "long": 77.0990252
+    },
+    "127": {
+        "Line": "Green Line 5",
+        "n": "4",
+        "name": "ASHOK PARK MAIN",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6716168,
+        "long": 77.15522639999999
+    },
+    "128": {
+        "Line": "Green Line 5",
+        "n": "5",
+        "name": "PUNJABI BAGH",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6740779,
+        "long": 77.1402932
+    },
+    "129": {
+        "Line": "Green Line 5",
+        "n": "6",
+        "name": "SHIVAJI PARK",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.678966,
+        "long": 77.0990252
+    },
+    "130": {
+        "Line": "Green Line 5",
+        "n": "7",
+        "name": "MADIPUR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6764174,
+        "long": 77.1194824
+    },
+    "131": {
+        "Line": "Green Line 5",
+        "n": "8",
+        "name": "PASCHIM VIHAR (EAST)",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.67727,
+        "long": 77.11241
+    },
+    "132": {
+        "Line": "Green Line 5",
+        "n": "9",
+        "name": "PASCHIM VIHAR (WEST)",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6786,
+        "long": 77.10231
+    },
+    "133": {
+        "Line": "Green Line 5",
+        "n": "10",
+        "name": "PEERAGARHI",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6797513,
+        "long": 77.09268990000001
+    },
+    "134": {
+        "Line": "Green Line 5",
+        "n": "11",
+        "name": "UDYOG NAGAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.681048,
+        "long": 77.08086399999999
+    },
+    "135": {
+        "Line": "Green Line 5",
+        "n": "12",
+        "name": "MAHARAJA SURAJMAL STADIUM",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.68182,
+        "long": 77.07396
+    },
+    "136": {
+        "Line": "Green Line 5",
+        "n": "13",
+        "name": "NANGLOI",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6823863,
+        "long": 77.0640683
+    },
+    "137": {
+        "Line": "Green Line 5",
+        "n": "14",
+        "name": "NANGLOI RAILWAY STATION",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.682133,
+        "long": 77.05622
+    },
+    "138": {
+        "Line": "Green Line 5",
+        "n": "15",
+        "name": "RAJDHANI PARK",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6822794,
+        "long": 77.044007
+    },
+    "139": {
+        "Line": "Green Line 5",
+        "n": "16",
+        "name": "MUNDKA",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6823381,
+        "long": 77.0363179
+    },
+    "140": {
+        "Line": "Green Line 5",
+        "n": "17",
+        "name": "MUNDKA INDUSTRIAL AREA",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.68343,
+        "long": 77.01715000000002
+    },
+    "141": {
+        "Line": "Green Line 5",
+        "n": "18",
+        "name": "GHEVRA",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.678966,
+        "long": 77.0990252
+    },
+    "142": {
+        "Line": "Green Line 5",
+        "n": "19",
+        "name": "TIKRI KALAN",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.68688,
+        "long": 76.97726999999999
+    },
+    "143": {
+        "Line": "Green Line 5",
+        "n": "20",
+        "name": "TIKRI BORDER",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6880203,
+        "long": 76.9640989
+    },
+    "144": {
+        "Line": "Green Line 5",
+        "n": "21",
+        "name": "PANDIT SHREE RAM SHARMA",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6892417,
+        "long": 76.9511453
+    },
+    "145": {
+        "Line": "Green Line 5",
+        "n": "22",
+        "name": "BAHADURGARH CITY",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.69074,
+        "long": 76.93538
+    },
+    "146": {
+        "Line": "Green Line 5",
+        "n": "23",
+        "name": "BRIGADIER HOSHIYAR SINGH",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.69741,
+        "long": 76.91927
+    },
+    "147": {
+        "Line": "Violet Line 6",
+        "n": "1",
+        "name": "KASHMERE GATE",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6640647,
+        "long": 77.2315103
+    },
+    "148": {
+        "Line": "Violet Line 6",
+        "n": "2",
+        "name": "LAL QUILA",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6568551,
+        "long": 77.2368125
+    },
+    "149": {
+        "Line": "Violet Line 6",
+        "n": "3",
+        "name": "JAMA MASJID",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6501429,
+        "long": 77.2379905
+    },
+    "150": {
+        "Line": "Violet Line 6",
+        "n": "4",
+        "name": "DELHI GATE",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.551949,
+        "long": 77.2561155
+    },
+    "151": {
+        "Line": "Violet Line 6",
+        "n": "5",
+        "name": "ITO",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.62839,
+        "long": 77.24118
+    },
+    "152": {
+        "Line": "Violet Line 6",
+        "n": "6",
+        "name": "MANDI HOUSE",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.551949,
+        "long": 77.2561155
+    },
+    "153": {
+        "Line": "Violet Line 6",
+        "n": "7",
+        "name": "JANPATH",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.625061,
+        "long": 77.219184
+    },
+    "154": {
+        "Line": "Violet Line 6",
+        "n": "8",
+        "name": "CENTRAL SECRETARIAT",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6152532,
+        "long": 77.2123447
+    },
+    "155": {
+        "Line": "Violet Line 6",
+        "n": "9",
+        "name": "KHAN MARKET",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6020922,
+        "long": 77.22923399999999
+    },
+    "156": {
+        "Line": "Violet Line 6",
+        "n": "10",
+        "name": "JLN STADIUM",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.589363,
+        "long": 77.23356199999999
+    },
+    "157": {
+        "Line": "Violet Line 6",
+        "n": "11",
+        "name": "JANGPURA",
+        "disabled friendly": 0,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.583698,
+        "long": 77.238436
+    },
+    "158": {
+        "Line": "Violet Line 6",
+        "n": "12",
+        "name": "LAJPAT NAGAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5694598,
+        "long": 77.2357589
+    },
+    "159": {
+        "Line": "Violet Line 6",
+        "n": "13",
+        "name": "MOOLCHAND",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.564012,
+        "long": 77.234245
+    },
+    "160": {
+        "Line": "Violet Line 6",
+        "n": "14",
+        "name": "KAILASH COLONY",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5553874,
+        "long": 77.2419541
+    },
+    "161": {
+        "Line": "Violet Line 6",
+        "n": "15",
+        "name": "NEHRU PLACE",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5514401,
+        "long": 77.2525147
+    },
+    "162": {
+        "Line": "Violet Line 6",
+        "n": "16",
+        "name": "KALKAJI MANDIR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.54945,
+        "long": 77.25922
+    },
+    "163": {
+        "Line": "Violet Line 6",
+        "n": "17",
+        "name": "GOVINDPURI",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5444,
+        "long": 77.26435
+    },
+    "164": {
+        "Line": "Violet Line 6",
+        "n": "18",
+        "name": "HARKESH NAGAR OKHLA",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.54292,
+        "long": 77.27503999999999
+    },
+    "165": {
+        "Line": "Violet Line 6",
+        "n": "19",
+        "name": "JASOLA-APOLLO",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.53813,
+        "long": 77.2833
+    },
+    "166": {
+        "Line": "Violet Line 6",
+        "n": "20",
+        "name": "SARITA VIHAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5313366,
+        "long": 77.2869945
+    },
+    "167": {
+        "Line": "Violet Line 6",
+        "n": "21",
+        "name": "MOHAN ESTATE",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.51952,
+        "long": 77.29455999999999
+    },
+    "168": {
+        "Line": "Violet Line 6",
+        "n": "22",
+        "name": "TUGHLAKABAD",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5151229,
+        "long": 77.2964546
+    },
+    "169": {
+        "Line": "Violet Line 6",
+        "n": "23",
+        "name": "BADARPUR BORDER",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5174243,
+        "long": 77.2955507
+    },
+    "170": {
+        "Line": "Violet Line 6",
+        "n": "24",
+        "name": "SARAI",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.47807,
+        "long": 77.3049
+    },
+    "171": {
+        "Line": "Violet Line 6",
+        "n": "25",
+        "name": "NHPC CHOWK",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.4577014,
+        "long": 77.30744279999999
+    },
+    "172": {
+        "Line": "Violet Line 6",
+        "n": "26",
+        "name": "MEWALA MAHARAJPUR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.448566,
+        "long": 77.308055
+    },
+    "173": {
+        "Line": "Violet Line 6",
+        "n": "27",
+        "name": "SECTOR-28",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.43801,
+        "long": 77.30899
+    },
+    "174": {
+        "Line": "Violet Line 6",
+        "n": "28",
+        "name": "BADKAL MOR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1
+    },
+    "175": {
+        "Line": "Violet Line 6",
+        "n": "29",
+        "name": "OLD FARIDABAD",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.4107712,
+        "long": 77.31150749999999
+    },
+    "176": {
+        "Line": "Violet Line 6",
+        "n": "30",
+        "name": "NEELAM CHOWK AJRONDA",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.397668,
+        "long": 77.312365
+    },
+    "177": {
+        "Line": "Violet Line 6",
+        "n": "31",
+        "name": "BATA CHOWK",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.3859614,
+        "long": 77.3134303
+    },
+    "178": {
+        "Line": "Violet Line 6",
+        "n": "32",
+        "name": "ESCORTS MUJESAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.37016,
+        "long": 77.31493999999999
+    },
+    "179": {
+        "Line": "Violet Line 6",
+        "n": "33",
+        "name": "SANT SURDAS (SIHI)",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.3546852,
+        "long": 77.3161621
+    },
+    "180": {
+        "Line": "Violet Line 6",
+        "n": "34",
+        "name": "RAJA NAHAR SINGH (BALLABGARH)",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.339801,
+        "long": 77.316446
+    },
+    "181": {
+        "Line": "Pink Line 7",
+        "n": "1",
+        "name": "MAJLIS PARK",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.72416,
+        "long": 77.18205
+    },
+    "182": {
+        "Line": "Pink Line 7",
+        "n": "2",
+        "name": "AZADPUR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.7142458,
+        "long": 77.1806931
+    },
+    "183": {
+        "Line": "Pink Line 7",
+        "n": "3",
+        "name": "SHALIMAR BAGH",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.701819,
+        "long": 77.165191
+    },
+    "184": {
+        "Line": "Pink Line 7",
+        "n": "4",
+        "name": "NETAJI SUBHASH PLACE",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6960458,
+        "long": 77.15263039999999
+    },
+    "185": {
+        "Line": "Pink Line 7",
+        "n": "5",
+        "name": "SHAKURPUR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6857507,
+        "long": 77.1494625
+    },
+    "186": {
+        "Line": "Pink Line 7",
+        "n": "6",
+        "name": "PUNJABI BAGH WEST",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.67274,
+        "long": 77.13918
+    },
+    "187": {
+        "Line": "Pink Line 7",
+        "n": "7",
+        "name": "ESI-BASAIDARAPUR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.65816,
+        "long": 77.12732
+    },
+    "188": {
+        "Line": "Pink Line 7",
+        "n": "8",
+        "name": "RAJOURI GARDEN",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.642262,
+        "long": 77.1279758
+    },
+    "189": {
+        "Line": "Pink Line 7",
+        "n": "9",
+        "name": "MAYAPURI",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6729068,
+        "long": 77.2708575
+    },
+    "190": {
+        "Line": "Pink Line 7",
+        "n": "10",
+        "name": "NARAINA VIHAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6266186,
+        "long": 77.1346369
+    },
+    "191": {
+        "Line": "Pink Line 7",
+        "n": "11",
+        "name": "DELHI CANTT.",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6052497,
+        "long": 77.1471642
+    },
+    "192": {
+        "Line": "Pink Line 7",
+        "n": "12",
+        "name": "DURGABAI DESHMUKH SOUTH CAMPUS",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.58938,
+        "long": 77.16951999999999
+    },
+    "193": {
+        "Line": "Pink Line 7",
+        "n": "13",
+        "name": "SIR M. VISHWESHWARAIAH MOTI BAGH",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5816906,
+        "long": 77.1741968
+    },
+    "194": {
+        "Line": "Pink Line 7",
+        "n": "14",
+        "name": "BHIKAJI CAMA PLACE",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.570211,
+        "long": 77.187888
+    },
+    "195": {
+        "Line": "Pink Line 7",
+        "n": "15",
+        "name": "SAROJINI NAGAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5742647,
+        "long": 77.1952602
+    },
+    "196": {
+        "Line": "Pink Line 7",
+        "n": "16",
+        "name": "DILLI HAAT - INA",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5744494,
+        "long": 77.2096224
+    },
+    "197": {
+        "Line": "Pink Line 7",
+        "n": "17",
+        "name": "SOUTH EXTENSION",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5686789,
+        "long": 77.2227663
+    },
+    "198": {
+        "Line": "Pink Line 7",
+        "n": "18",
+        "name": "LAJPAT NAGAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.567242,
+        "long": 77.2443795
+    },
+    "199": {
+        "Line": "Pink Line 7",
+        "n": "19",
+        "name": "VINOBAPURI",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.565944,
+        "long": 77.250502
+    },
+    "200": {
+        "Line": "Pink Line 7",
+        "n": "20",
+        "name": "ASHRAM",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6729068,
+        "long": 77.2708575
+    },
+    "201": {
+        "Line": "Pink Line 7",
+        "n": "21",
+        "name": "SARAI KALE KHAN - NIZAMUDDIN",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5880776,
+        "long": 77.2532422
+    },
+    "202": {
+        "Line": "Pink Line 7",
+        "n": "22",
+        "name": "MAYUR VIHAR PHASE-I",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.6042162,
+        "long": 77.2895686
+    },
+    "203": {
+        "Line": "Pink Line 7",
+        "n": "23",
+        "name": "MAYUR VIHAR PKT-1",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6057944,
+        "long": 77.2987035
+    },
+    "204": {
+        "Line": "Pink Line 7",
+        "n": "24",
+        "name": "TRILOKPURI-SANJAY LAKE",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.61359,
+        "long": 77.30884
+    },
+    "205": {
+        "Line": "Pink Line 7",
+        "n": "25",
+        "name": "EAST VINOD NAGAR-MAYUR VIHAR -II",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1
+    },
+    "206": {
+        "Line": "Pink Line 7",
+        "n": "26",
+        "name": "MANDAWALI - WEST VINOD NAGAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.624877,
+        "long": 77.304372
+    },
+    "207": {
+        "Line": "Pink Line 7",
+        "n": "27",
+        "name": "I.P. EXTENSION",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6729068,
+        "long": 77.2708575
+    },
+    "208": {
+        "Line": "Pink Line 7",
+        "n": "28",
+        "name": "ANAND VIHAR I.S.B.T",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6469527,
+        "long": 77.3159156
+    },
+    "209": {
+        "Line": "Pink Line 7",
+        "n": "29",
+        "name": "KARKARDUMA",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.64849,
+        "long": 77.30557999999999
+    },
+    "210": {
+        "Line": "Pink Line 7",
+        "n": "30",
+        "name": "KARKARDUMA COURT",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.65359,
+        "long": 77.29558999999999
+    },
+    "211": {
+        "Line": "Pink Line 7",
+        "n": "31",
+        "name": "KRISHNA NAGAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6580811,
+        "long": 77.2899764
+    },
+    "212": {
+        "Line": "Pink Line 7",
+        "n": "32",
+        "name": "EAST AZAD NAGAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.66479,
+        "long": 77.28479999999999
+    },
+    "213": {
+        "Line": "Pink Line 7",
+        "n": "33",
+        "name": "WELCOME",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.67179029999999,
+        "long": 77.2776809
+    },
+    "214": {
+        "Line": "Pink Line 7",
+        "n": "34",
+        "name": "JAFRABAD",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6827585,
+        "long": 77.2747474
+    },
+    "215": {
+        "Line": "Pink Line 7",
+        "n": "35",
+        "name": "MAUJPUR-BABARPUR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6921031,
+        "long": 77.279612
+    },
+    "216": {
+        "Line": "Pink Line 7",
+        "n": "36",
+        "name": "GOKULPURI",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.70241,
+        "long": 77.28598
+    },
+    "217": {
+        "Line": "Pink Line 7",
+        "n": "37",
+        "name": "JOHRI ENCLAVE",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.71318,
+        "long": 77.29006
+    },
+    "218": {
+        "Line": "Pink Line 7",
+        "n": "38",
+        "name": "SHIV VIHAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.7216122,
+        "long": 77.2894938
+    },
+    "219": {
+        "Line": "Magenta Line 8",
+        "n": "1",
+        "name": "JANAK PURI WEST",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.62947,
+        "long": 77.07777
+    },
+    "220": {
+        "Line": "Magenta Line 8",
+        "n": "2",
+        "name": "DABRI MOR - JANAK PURI SOUTH",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.615906,
+        "long": 77.085257
+    },
+    "221": {
+        "Line": "Magenta Line 8",
+        "n": "3",
+        "name": "DASHRATHPURI",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6040405,
+        "long": 77.0829695
+    },
+    "222": {
+        "Line": "Magenta Line 8",
+        "n": "4",
+        "name": "PALAM",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5866603,
+        "long": 77.0870948
+    },
+    "223": {
+        "Line": "Magenta Line 8",
+        "n": "5",
+        "name": "SADAR BAZAR CANTONMENT",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5829578,
+        "long": 77.0933282
+    },
+    "224": {
+        "Line": "Magenta Line 8",
+        "n": "6",
+        "name": "TERMINAL - 1 IGI AIRPORT",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5627225,
+        "long": 77.1197258
+    },
+    "225": {
+        "Line": "Magenta Line 8",
+        "n": "7",
+        "name": "SHANKAR VIHAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5597931,
+        "long": 77.1452612
+    },
+    "226": {
+        "Line": "Magenta Line 8",
+        "n": "8",
+        "name": "VASANT VIHAR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5579461,
+        "long": 77.1601957
+    },
+    "227": {
+        "Line": "Magenta Line 8",
+        "n": "9",
+        "name": "MUNIRKA",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5493185,
+        "long": 77.1881819
+    },
+    "228": {
+        "Line": "Magenta Line 8",
+        "n": "10",
+        "name": "R.K.PURAM",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5561332,
+        "long": 77.1761549
+    },
+    "229": {
+        "Line": "Magenta Line 8",
+        "n": "11",
+        "name": "I.I.T",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1
+    },
+    "230": {
+        "Line": "Magenta Line 8",
+        "n": "12",
+        "name": "HAUZ KHAS",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5465383,
+        "long": 77.1957994
+    },
+    "231": {
+        "Line": "Magenta Line 8",
+        "n": "13",
+        "name": "PANCHSHEEL PARK",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5428786,
+        "long": 77.214427
+    },
+    "232": {
+        "Line": "Magenta Line 8",
+        "n": "14",
+        "name": "CHIRAG DELHI",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5415196,
+        "long": 77.2279617
+    },
+    "233": {
+        "Line": "Magenta Line 8",
+        "n": "15",
+        "name": "GREATER KAILASH",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5423797,
+        "long": 77.2397473
+    },
+    "234": {
+        "Line": "Magenta Line 8",
+        "n": "16",
+        "name": "NEHRU ENCLAVE",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5445403,
+        "long": 77.2469169
+    },
+    "235": {
+        "Line": "Magenta Line 8",
+        "n": "17",
+        "name": "KALKAJI MANDIR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.549838,
+        "long": 77.2607232
+    },
+    "236": {
+        "Line": "Magenta Line 8",
+        "n": "18",
+        "name": "OKHLA N.S.I.C",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5544259,
+        "long": 77.2648833
+    },
+    "237": {
+        "Line": "Magenta Line 8",
+        "n": "19",
+        "name": "SUKHDEV VIHAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5597744,
+        "long": 77.2751248
+    },
+    "238": {
+        "Line": "Magenta Line 8",
+        "n": "20",
+        "name": "JAMIA MILIA ISLAMIYA",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5605123,
+        "long": 77.2849909
+    },
+    "239": {
+        "Line": "Magenta Line 8",
+        "n": "21",
+        "name": "OKHLA VIHAR",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5534232,
+        "long": 77.2929898
+    },
+    "240": {
+        "Line": "Magenta Line 8",
+        "n": "22",
+        "name": "JASOLA VIHAR SHAHEEN BAGH",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5468125,
+        "long": 77.2960892
+    },
+    "241": {
+        "Line": "Magenta Line 8",
+        "n": "23",
+        "name": "KALINDI KUNJ",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.542835,
+        "long": 77.310175
+    },
+    "242": {
+        "Line": "Magenta Line 8",
+        "n": "24",
+        "name": "OKHLA BIRD SANCTUARY",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5514425,
+        "long": 77.3185215
+    },
+    "243": {
+        "Line": "Magenta Line 8",
+        "n": "25",
+        "name": "BOTANICAL GARDEN",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5640373,
+        "long": 77.3342687
+    },
+    "244": {
+        "Line": "Grey Line 9",
+        "n": "1",
+        "name": "DWARKA",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 22.2441975,
+        "long": 68.96845619999999
+    },
+    "245": {
+        "Line": "Grey Line 9",
+        "n": "2",
+        "name": "NANGLI",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.617239,
+        "long": 77.0104
+    },
+    "246": {
+        "Line": "Grey Line 9",
+        "n": "3",
+        "name": "NAJAFGARH",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6125955,
+        "long": 76.986314
+    },
+    "247": {
+        "Line": "Grey Line 9",
+        "n": "4",
+        "name": "DHANSA BUS STAND",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 0,
+        "lat": 28.6119,
+        "long": 76.978
+    },
+    "248": {
+        "Line": "Orange Line 10",
+        "n": "1",
+        "name": "NEW DELHI (Yellow & Airport Line)",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5875878,
+        "long": 77.1507546
+    },
+    "249": {
+        "Line": "Orange Line 10",
+        "n": "2",
+        "name": "SHIVAJI STADIUM ",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.6287699,
+        "long": 77.21141209999999
+    },
+    "250": {
+        "Line": "Orange Line 10",
+        "n": "3",
+        "name": "DHAULA KUAN",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.5865788,
+        "long": 77.1486236
+    },
+    "251": {
+        "Line": "Orange Line 10",
+        "n": "4",
+        "name": "DELHI AEROCITY",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.54888,
+        "long": 77.12077
+    },
+    "252": {
+        "Line": "Orange Line 10",
+        "n": "5",
+        "name": "AIRPORT",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 0,
+        "long": 0
+    },
+    "253": {
+        "Line": "Orange Line 10",
+        "n": "6",
+        "name": "DWARKA SECTOR - 21",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.5578236,
+        "long": 77.0640761
+    },
+    "254": {
+        "Line": "RMGL 11",
+        "n": "1",
+        "name": "SECTOR 55-56",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.42341,
+        "long": 77.1052
+    },
+    "255": {
+        "Line": "RMGL 11",
+        "n": "2",
+        "name": "SECTOR 54 Chowk",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.432883,
+        "long": 77.1049802
+    },
+    "256": {
+        "Line": "RMGL 11",
+        "n": "3",
+        "name": "SECTOR 53-54",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.4464177,
+        "long": 77.1004521
+    },
+    "257": {
+        "Line": "RMGL 11",
+        "n": "4",
+        "name": "SECTOR 42-43",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.45743,
+        "long": 77.09694
+    },
+    "258": {
+        "Line": "RMGL 11",
+        "n": "5",
+        "name": "PHASE 1",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1
+    },
+    "259": {
+        "Line": "RMGL 11",
+        "n": "6",
+        "name": "SIKANDERPUR",
+        "disabled friendly": 1,
+        "parking available": 1,
+        "elevator available": 1,
+        "lat": 28.48131,
+        "long": 77.09312
+    },
+    "260": {
+        "Line": "RMGL 11",
+        "n": "7",
+        "name": "PHASE 2",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.4876667,
+        "long": 77.0881034
+    },
+    "261": {
+        "Line": "RMGL 11",
+        "n": "8",
+        "name": "BELVEDERE TOWERS",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.49164,
+        "long": 77.08821999999999
+    },
+    "262": {
+        "Line": "RMGL 11",
+        "n": "9",
+        "name": "CYBER CITY",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.4949762,
+        "long": 77.0895421
+    },
+    "263": {
+        "Line": "RMGL 11",
+        "n": "10",
+        "name": "MOULSARI AVENUE",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1,
+        "lat": 28.4971656,
+        "long": 77.1005037
+    },
+    "264": {
+        "Line": "RMGL 11",
+        "n": "11",
+        "name": "PHASE 3",
+        "disabled friendly": 1,
+        "parking available": 0,
+        "elevator available": 1
+    }
+}
